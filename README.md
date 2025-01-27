@@ -1,1 +1,1 @@
-# goit-js-hw-05
+# JS Homeworck #5
